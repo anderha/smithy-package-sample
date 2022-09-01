@@ -1,4 +1,4 @@
-namespace anderha.smithy.package.sample.api
+namespace anderha.api
 
 use smithy4s.api#simpleRestJson
 
